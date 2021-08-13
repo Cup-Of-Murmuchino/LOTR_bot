@@ -1,0 +1,22 @@
+Спокойствие лужайки:
+120 90 208
+Большой оазис:
+-875 115 -1223
+Снежный пик:
+-2072 132 -200
+Сдвиг:
+-2534 137 -2082
+Угол безнадежды:
+-2680 75 2874
+Поля погибели:
+-1025 94 1844
+Таянье:
+411 154 2612
+Вдали...:
+2511 97 2520
+Природный комплекс:
+2549 78 -494
+Грибное безумие:
+2020 84 -2282
+
+/summon villager ~ ~1 ~ {VillagerData:{profession:cartographer,level:5,type:swamp},Invulnerable:1,PersistenceRequired:1,Silent:1,NoAI:1,CustomName:"\"Таинственней торговец с тех земель\"",,Offers:{Recipes:[{buy:{id:gold_ingot,Count:15},sell:{id:blaze_powder,Count:1,tag:{display:{Name:"\"Порошок ада\"",Lore:["\"Используйте его для варки зелья.\""]}}},rewardExp:0b,maxUses:9999999},{buy:{id:copper_ingot,Count:30},sell:{id:nether_wart,Count:1,tag:{display:{Name:"\"Грибы ада\"",Lore:["\"Используйте их, чтобы варить мутные зелья.\""]}}},maxUses:9999999}]}}
