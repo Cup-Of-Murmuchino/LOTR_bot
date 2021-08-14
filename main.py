@@ -3,7 +3,6 @@ from discord.ext import commands
 from discord.utils import get
 from PIL import Image
 import json
-from config import token
 import os
 
 client = commands.Bot(command_prefix="/")
