@@ -4,6 +4,7 @@ from discord.utils import get
 from PIL import Image
 import json
 from config import token
+import os
 
 client = commands.Bot(command_prefix="/")
 
@@ -171,7 +172,7 @@ async def addchest(ctx, *agr):
         updjson()
 
 
-client.run(token)
+client.run(os.environ.get("TOKEN"))
 
 
 
