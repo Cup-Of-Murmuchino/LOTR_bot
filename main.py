@@ -7,7 +7,7 @@ from config import token
 import os
 
 client = commands.Bot(command_prefix="/")
-
+print("Hello world")
 # Region owners
 
 
